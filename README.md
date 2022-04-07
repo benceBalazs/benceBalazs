@@ -6,7 +6,7 @@
 
 ## Right now I'm probably working on
 
-[![BPRI for university purposes](https://github-readme-stats.vercel.app/api/pin/?username=benceBalazs&repo=BPRI)](https://github.com/benceBalazs/BPRI)
+[![yet another monopoly-style game](https://github-readme-stats.vercel.app/api/pin/?username=switchcodes&repo=yam)](https://github.com/switchcodes/yam)
 
 *... and other **secret** projects.*
 
