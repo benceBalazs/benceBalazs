@@ -6,7 +6,7 @@
 
 ## Right now I'm probably working on
 
-[![yet another monopoly-style game](https://github-readme-stats.vercel.app/api/pin/?username=switchcodes&repo=yam)](https://github.com/switchcodes/yam)
+[![business process management suite](https://github-readme-stats.vercel.app/api/pin/?username=switchcodes&repo=bpms)](https://github.com/switchcodes/bpms)
 
 *... and other **secret** projects.*
 
