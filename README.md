@@ -6,7 +6,7 @@
 
 ## Right now I'm probably working on
 
-[![business process management suite](https://github-readme-stats.vercel.app/api/pin/?username=switchcodes&repo=bpms)](https://github.com/switchcodes/bpms)
+[![svelte material library](https://github-readme-stats.vercel.app/api/pin/?username=switchcodes&repo=sveltial)](https://github.com/switchcodes/sveltial)
 
 *... and other **secret** projects.*
 
