@@ -6,7 +6,5 @@
 
 ## Right now I'm probably working on
 
-[![svelte material library](https://github-readme-stats.vercel.app/api/pin/?username=switchcodes&repo=sveltial)](https://github.com/switchcodes/sveltial)
-
-*... and other **secret** projects.*
+**secret** projects.*
 
