@@ -6,5 +6,5 @@
 
 ## Right now I'm probably working on
 
-**secret** projects.*
+**secret** projects.
 
